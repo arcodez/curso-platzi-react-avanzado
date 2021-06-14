@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "petgram",
+  "name": "petgramAbel",
   "builds": [
     { "src": "package.json", "use": "@now/static-build" }
   ],
